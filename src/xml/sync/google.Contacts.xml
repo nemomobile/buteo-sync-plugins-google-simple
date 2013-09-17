@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<profile name="google.Contacts" type="sync" >
+
+    <key name="Remote database" value="https://www.google.com/m8/feeds/contacts/default/full"/>
+    <key name="enabled" value="true"/>
+    <key name="hidden" value="true"/>
+    <key name="use_accounts" value="false"/>
+
+    <profile type="client" name="googlecontacts">
+        <key value="two-way" name="Sync Direction"/>
+        <key value="gdata" name="Sync Protocol"/>
+        <key value="HTTP" name="Sync Transport"/>
+        <key value="prefer remote" name="conflictpolicy" />
+    </profile>
+
+</profile>
