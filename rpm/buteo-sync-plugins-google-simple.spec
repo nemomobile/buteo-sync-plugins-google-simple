@@ -1,5 +1,5 @@
 Name: buteo-sync-plugins-google-simple
-Version: 0.0.1
+Version: 0.0.2
 Release: 1
 Summary: One-way Buteo Google Contacts synchronization plugin
 Group: System/Libraries
@@ -23,7 +23,7 @@ BuildRequires: qtcontacts-sqlite-qt5
 
 %files
 %defattr(-,root,root,-)
-%config %{_sysconfdir}/buteo/profiles/client/googlecontacts.xml
+%config %{_sysconfdir}/buteo/profiles/client/googlecontactssimple.xml
 %config %{_sysconfdir}/buteo/profiles/sync/google.Contacts.xml
 %{_libdir}/buteo-plugins-qt5/*.so
 

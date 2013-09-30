@@ -7,7 +7,7 @@
     <key name="hidden" value="true"/>
     <key name="use_accounts" value="false"/>
 
-    <profile type="client" name="googlecontacts">
+    <profile type="client" name="googlecontactssimple">
         <key value="two-way" name="Sync Direction"/>
         <key value="gdata" name="Sync Protocol"/>
         <key value="HTTP" name="Sync Transport"/>

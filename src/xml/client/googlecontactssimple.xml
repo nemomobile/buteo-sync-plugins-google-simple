@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<profile name="googlecontacts" type="client" >
+<profile name="googlecontactssimple" type="client" >
     <field name="Sync Transport" />
     <field name="Sync Direction" />
     <field name="Sync Protocol" />

@@ -7,7 +7,7 @@
 QT += contacts network
 QT -= gui
 
-TARGET = googlecontacts-client
+TARGET = googlecontactssimple-client
 TEMPLATE = lib
 
 CONFIG += link_pkgconfig plugin debug console
