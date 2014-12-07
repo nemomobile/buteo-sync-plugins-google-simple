@@ -1,4 +1,12 @@
-This is a simplified fork of the buteo-sync-plugins-google repository.
+This project is no longer under active development
+===================================================
+
+For Buteo sync plugins for Google accounts please refer to https://github.com/nemomobile/buteo-sync-plugins-social
+
+buteo-sync-plugins-google-simple
+=================================
+
+This is a simplified fork of the buteo-sync-plugins-google[1] repository.
 
 This package provides a "client" synchronization plugin to the Buteo
 sync framework.  It connects to Google using a valid account
@@ -6,3 +14,5 @@ sync framework.  It connects to Google using a valid account
 Contacts service to the device.
 
 Note: this plugin performs one-way sync only.
+
+[1] - https://github.com/nemomobile/buteo-sync-plugins-google
